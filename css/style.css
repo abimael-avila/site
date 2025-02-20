@@ -559,11 +559,9 @@ li.grid-item{
 
 li.grid-item img{
   width:360px;
+  height: auto;
 }
 
-li.grid-item img{
-    height: auto;
-  }
 
 /*
 **************************
