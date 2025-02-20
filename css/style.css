@@ -561,6 +561,10 @@ li.grid-item img{
   width:360px;
 }
 
+.grid-hover, li.grid-item, li.grid-item img{
+    height: auto;
+  }
+
 /*
 **************************
 FOOTER
