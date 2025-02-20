@@ -46,7 +46,12 @@
   .grid-hover, li.grid-item, li.grid-item img{
     width:312px;
   }
-
+  p#linkescritorio {
+    display: block;
+}
+   p#linkcelular {
+    display: none;
+}
 
 }
 
@@ -355,5 +360,12 @@
   .grid-hover, li.grid-item, li.grid-item img{
     width:280px;
   }
+
+  p#linkescritorio {
+    display: none;
+}
+   p#linkcelular {
+    display: block;
+}
 
 }
