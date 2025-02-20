@@ -559,11 +559,10 @@ li.grid-item{
 
 li.grid-item img{
   width:360px;
+  height: auto;
   
 }
-img{
-height: auto;
-}
+
 /*
 **************************
 FOOTER
